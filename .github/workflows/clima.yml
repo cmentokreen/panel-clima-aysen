@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Clonar el repositorio
         uses: actions/checkout@v4
+        with:
+          # Esto obliga a GitHub a bajar la historia completa para no perderse
+          fetch-depth: 0 
 
       - name: Configurar entorno de Python
         uses: actions/setup-python@v5
@@ -28,7 +31,6 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python clima_aysen.py
 
-      # Esta herramienta oficial se encarga de guardar sin errores de desincronización
       - name: Guardar el JSON generado en el repositorio
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
