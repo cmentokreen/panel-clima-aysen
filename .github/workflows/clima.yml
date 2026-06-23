@@ -35,5 +35,6 @@ jobs:
           git config --global user.name "Panel Bot"
           git config --global user.email "bot@panel.local"
           git add clima_exportado.json
-          # Comprueba si hay cambios antes de intentar guardar
-          git diff --staged --quiet || (git commit -m "Pronóstico actualizado" && git push)
+          git commit -m "Pronóstico actualizado" || echo "Sin cambios"
+          git pull --rebase origin main
+          git push
