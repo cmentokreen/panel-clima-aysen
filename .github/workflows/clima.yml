@@ -1,0 +1,36 @@
+name: Actualizar Clima Diario
+
+on:
+  schedule:
+    # Se ejecuta a las 09:45 UTC (que corresponden a las 06:45 AM hora local actual)
+    - cron: '45 9 * * *'
+  workflow_dispatch: # Nos permite ejecutarlo manualmente con un botón
+
+jobs:
+  procesar_clima:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar entorno de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar librerías necesarias
+        run: |
+          pip install requests google-genai python-dotenv
+
+      - name: Ejecutar script de clima con Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python clima_aysen.py
+
+      - name: Guardar el JSON actualizado en el repositorio
+        run: |
+          git config --global user.name "Panel Bot"
+          git config --global user.email "bot@panel.local"
+          git add clima_exportado.json
+          git commit -m "Pronóstico actualizado automáticamente" || echo "Sin cambios"
+          git push
