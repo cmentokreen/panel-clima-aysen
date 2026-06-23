@@ -2,9 +2,12 @@ name: Actualizar Clima Diario
 
 on:
   schedule:
-    # Se ejecuta a las 09:45 UTC (que corresponden a las 06:45 AM hora local actual)
     - cron: '45 9 * * *'
-  workflow_dispatch: # Nos permite ejecutarlo manualmente con un botón
+  workflow_dispatch: 
+
+# ¡Esta es la llave maestra que faltaba! Autoriza al bot a guardar el archivo.
+permissions:
+  contents: write
 
 jobs:
   procesar_clima:
