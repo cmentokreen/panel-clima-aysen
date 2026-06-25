@@ -1,23 +1,23 @@
 {
-    "mensaje": "La mañana está fría y húmeda, pero el cielo se despejará. Abríguense bien para el camino al colegio, ¡el viento será suave!",
+    "mensaje": "¡Hola familia! Hoy será un día frío y nublado. Abríguense bien con varias capas para ir al colegio. No se espera lluvia en la mañana, pero por la noche sí.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "2 km/h",
-        "direccion_texto": "NW",
-        "angulo": 309
+        "velocidad": "4.3 km/h",
+        "direccion_texto": "NE",
+        "angulo": 48
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "5.1°C"
+            "temp": "6.6°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "7.4°C"
+            "icono": "nubes",
+            "temp": "7.2°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "0.6°C"
+            "icono": "lluvia",
+            "temp": "5.5°C"
         }
     }
 }
