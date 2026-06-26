@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy será un día frío y nublado. Abríguense bien con varias capas para ir al colegio. No se espera lluvia en la mañana, pero por la noche sí.",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Hola familia! Hoy será un día fresco con probabilidad de lluvia por la tarde. Abríguense bien y no olviden sus paraguas para el camino al colegio. ¡Que tengan un buen día!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "4.3 km/h",
-        "direccion_texto": "NE",
-        "angulo": 48
+        "velocidad": "7 km/h",
+        "direccion_texto": "SW",
+        "angulo": 206
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "6.6°C"
+            "temp": "6°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "7.2°C"
+            "icono": "lluvia",
+            "temp": "5°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "5.5°C"
+            "icono": "nubes",
+            "temp": "4°C"
         }
     }
 }
