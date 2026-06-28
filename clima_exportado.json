@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien! Hace mucho frío hoy. La mañana será helada, así que pónganse varias capas para el camino al colegio.",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Abríguense bien! Hoy tendremos un día fresco con posibilidad de nieve o llovizna por la mañana. El viento soplará suave desde el noreste.",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "4 km/h",
+        "velocidad": "11 km/h",
         "direccion_texto": "NE",
-        "angulo": 33
+        "angulo": 54
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "3.7°C"
+            "temp": "4.9°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "5.7°C"
+            "icono": "sol",
+            "temp": "5.8°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "0.8°C"
+            "temp": "0.0°C"
         }
     }
 }
