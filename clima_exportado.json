@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien! Hoy tendremos un día fresco con posibilidad de nieve o llovizna por la mañana. El viento soplará suave desde el noreste.",
+    "mensaje": "¡Buenos días, familia! Hace frío, abríguense bien.\nLa tarde será fresca, con posibles lluvias al volver.\n¡No olviden sus paraguas!",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "11 km/h",
+        "velocidad": "2 km/h",
         "direccion_texto": "NE",
-        "angulo": 54
+        "angulo": 45
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "4.9°C"
+            "temp": "4°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "5.8°C"
+            "icono": "nubes",
+            "temp": "4°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "0.0°C"
+            "icono": "lluvia",
+            "temp": "3°C"
         }
     }
 }
