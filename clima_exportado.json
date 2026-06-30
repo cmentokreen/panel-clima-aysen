@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hace frío, abríguense bien.\nLa tarde será fresca, con posibles lluvias al volver.\n¡No olviden sus paraguas!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Atención, familia! Hoy el día está fresco, con temperaturas que bajarán bajo cero por la tarde. Asegúrense de abrigarse muy bien con varias capas, guantes y gorro para la caminata al colegio. El viento es moderado, así que protéjanse bien.",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "2 km/h",
-        "direccion_texto": "NE",
-        "angulo": 45
+        "velocidad": "22 km/h",
+        "direccion_texto": "E",
+        "angulo": 105
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "4°C"
+            "icono": "sol",
+            "temp": "2.4°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "4°C"
+            "icono": "sol",
+            "temp": "-2.5°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "3°C"
+            "icono": "sol",
+            "temp": "-4.6°C"
         }
     }
 }
