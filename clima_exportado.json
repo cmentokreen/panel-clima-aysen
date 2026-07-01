@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Atención, familia! Hoy el día está fresco, con temperaturas que bajarán bajo cero por la tarde. Asegúrense de abrigarse muy bien con varias capas, guantes y gorro para la caminata al colegio. El viento es moderado, así que protéjanse bien.",
+    "mensaje": "¡Qué frío! Abríguense muy bien con varias capas, gorro y guantes. El sol brillará, pero no calentará mucho. ¡A paso firme al colegio!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "22 km/h",
-        "direccion_texto": "E",
-        "angulo": 105
+        "velocidad": "3 km/h",
+        "direccion_texto": "NE",
+        "angulo": 52
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "2.4°C"
+            "temp": "0.4°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "-2.5°C"
+            "temp": "2.0°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-4.6°C"
+            "temp": "-1.0°C"
         }
     }
 }
