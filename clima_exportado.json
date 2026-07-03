@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy el día comienza muy frío con -7.6°C, así que abríguense bien para el camino al colegio.\nPor la tarde, el sol nos acompañará y la temperatura subirá hasta los 8.5°C.\n¡Un día perfecto para disfrutar al aire libre!",
+    "mensaje": "¡Abríguense mucho! Hoy tendremos un día muy frío, con temperaturas bajo cero por la mañana. Por la tarde subirá un poco, pero el viento será ligero. ¡No olviden sus bufandas y guantes para el camino al colegio!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
         "velocidad": "2 km/h",
-        "direccion_texto": "SW",
-        "angulo": 222
+        "direccion_texto": "E",
+        "angulo": 86
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "5.3°C"
+            "temp": "5°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "6.8°C"
+            "temp": "0°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "1.3°C"
+            "temp": "-1°C"
         }
     }
 }
