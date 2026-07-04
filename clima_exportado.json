@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense mucho! Hoy tendremos un día muy frío, con temperaturas bajo cero por la mañana. Por la tarde subirá un poco, pero el viento será ligero. ¡No olviden sus bufandas y guantes para el camino al colegio!",
+    "mensaje": "¡Abríguense bien! Hará mucho frío hoy, especialmente por la mañana. Aunque la tarde será un poco más suave, las temperaturas seguirán bajas. No olviden gorros y guantes para el camino al colegio.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
         "velocidad": "2 km/h",
-        "direccion_texto": "E",
-        "angulo": 86
+        "direccion_texto": "NW",
+        "angulo": 303
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "5°C"
+            "temp": "3.5°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "0°C"
+            "temp": "5.5°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-1°C"
+            "temp": "-1.2°C"
         }
     }
 }
