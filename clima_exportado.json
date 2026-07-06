@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien! Hace mucho frío y seguirá así por la mañana. ¡Pónganse varias capas para el camino al colegio!",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Buenos días, familia! Hoy será un día frío, con temperaturas bajo cero temprano. Por la tarde, prepárense para la lluvia. No olviden sus abrigos y paraguas para el camino al colegio.",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "03 km/h",
-        "direccion_texto": "NW",
-        "angulo": 322
+        "velocidad": "11 km/h",
+        "direccion_texto": "NE",
+        "angulo": 66
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "3°C"
+            "temp": "5°C"
         },
         "16:00": {
-            "icono": "nubes",
+            "icono": "lluvia",
             "temp": "4°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "2°C"
+            "icono": "lluvia",
+            "temp": "3°C"
         }
     }
 }
