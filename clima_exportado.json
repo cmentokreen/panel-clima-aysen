@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día frío, con temperaturas bajo cero temprano. Por la tarde, prepárense para la lluvia. No olviden sus abrigos y paraguas para el camino al colegio.",
+    "mensaje": "¡Buenos días, familia! La mañana está fresca y húmeda, con algo de lluvia. Para ir al colegio, abríguense muy bien. Por la tarde estará nublado pero sin precipitaciones. ¡Que tengan un buen día!",
     "escenario_imagen": "lluvia",
     "viento_actual": {
         "velocidad": "11 km/h",
         "direccion_texto": "NE",
-        "angulo": 66
+        "angulo": 60
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "5°C"
+            "temp": "6°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "4°C"
+            "icono": "nubes",
+            "temp": "5°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "3°C"
+            "icono": "nubes",
+            "temp": "4°C"
         }
     }
 }
