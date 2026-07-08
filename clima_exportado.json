@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! La mañana está fresca y húmeda, con algo de lluvia. Para ir al colegio, abríguense muy bien. Por la tarde estará nublado pero sin precipitaciones. ¡Que tengan un buen día!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Abríguense bien! Hace mucho frío ahora para ir al colegio. Por la tarde subirá un poco la temperatura, pero el viento será ligero y el cielo despejado. ¡Caminen con cuidado!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "NE",
-        "angulo": 60
+        "velocidad": "2 km/h",
+        "direccion_texto": "NW",
+        "angulo": 308
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "6°C"
+            "temp": "3.5°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "5°C"
+            "icono": "sol",
+            "temp": "4.4°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "4°C"
+            "icono": "sol",
+            "temp": "-1.5°C"
         }
     }
 }
