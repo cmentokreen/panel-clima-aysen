@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien hoy! Hace mucho frío, especialmente por la mañana. Las nubes nos acompañarán, pero el viento será suave. ¡A la escuela con gorro y guantes!",
+    "mensaje": "¡Buenos días, familia! Hoy el día comienza muy frío, con -3°C y viento suave. Abríguense bien para el camino al colegio. La tarde será más templada y con nubes.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "1 km/h",
+        "velocidad": "7 km/h",
         "direccion_texto": "N",
-        "angulo": 338
+        "angulo": 13
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "0.7°C"
+            "icono": "sol",
+            "temp": "2.7°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "2.0°C"
+            "temp": "4.5°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "-0.2°C"
+            "temp": "2.1°C"
         }
     }
 }
