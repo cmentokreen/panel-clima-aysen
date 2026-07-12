@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy el día comienza muy frío, con -3°C y viento suave. Abríguense bien para el camino al colegio. La tarde será más templada y con nubes.",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Abríguense bien! Hoy tendremos un día frío y con probabilidad de lluvia. No olviden sus paraguas y chaquetas impermeables para el camino al colegio.",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "7 km/h",
-        "direccion_texto": "N",
-        "angulo": 13
+        "velocidad": "2 km/h",
+        "direccion_texto": "SSW",
+        "angulo": 201
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "2.7°C"
+            "icono": "nubes",
+            "temp": "5.2°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "4.5°C"
+            "icono": "lluvia",
+            "temp": "5.2°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "2.1°C"
+            "icono": "lluvia",
+            "temp": "3.1°C"
         }
     }
 }
