@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy el día estará fresco y con llovizna. Abríguense bien con paraguas y capas para la caminata al colegio. ¡Que tengan un excelente día!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Buenos días, familia! Hoy será un día frío.\nAbríguense bien para ir al colegio, con varias capas.\nEl viento fresco del noreste se sentirá, ¡así que gorro y guantes!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "5 km/h",
-        "direccion_texto": "S",
-        "angulo": 182
+        "velocidad": "12 km/h",
+        "direccion_texto": "NE",
+        "angulo": 31
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "4.7°C"
+            "icono": "sol",
+            "temp": "7.2°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "3.9°C"
+            "icono": "nubes",
+            "temp": "7.1°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "3.4°C"
+            "icono": "nubes",
+            "temp": "2.8°C"
         }
     }
 }
