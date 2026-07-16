@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy estará frío y con lloviznas por la mañana.\nAbríguense bien y lleven paraguas para el colegio.\nPor la tarde, las nubes persistirán, pero sin lluvia.",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Abríguense bien! Hace mucho frío y el viento es fresco. Lleven paraguas o impermeable, hay probabilidad de precipitaciones. ¡Que tengan un buen día en el colegio!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "3 km/h",
-        "direccion_texto": "ESE",
-        "angulo": 102
+        "velocidad": "5 km/h",
+        "direccion_texto": "NE",
+        "angulo": 37
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "5.1°C"
+            "temp": "3.5°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "4.0°C"
+            "icono": "nieve",
+            "temp": "2.1°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "3.6°C"
+            "icono": "nieve",
+            "temp": "1.3°C"
         }
     }
 }
