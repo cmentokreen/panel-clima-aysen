@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien! Hace mucho frío. La mañana está nublada, pero la tarde traerá sol. ¡No olviden guantes y gorro para el camino!",
+    "mensaje": "¡Hola familia! Hoy será un día muy frío. Asegúrense de abrigarse bien con varias capas, gorro, guantes y bufanda para el camino al colegio. No se espera lluvia, pero el frío será intenso.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "7 km/h",
-        "direccion_texto": "NNE",
-        "angulo": 30
+        "velocidad": "12 km/h",
+        "direccion_texto": "N",
+        "angulo": 10
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "1.3°C"
+            "temp": "-3.8°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "0.5°C"
+            "icono": "nubes",
+            "temp": "-1.0°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-6.9°C"
+            "temp": "-7.4°C"
         }
     }
 }
