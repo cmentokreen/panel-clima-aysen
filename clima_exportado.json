@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy será un día muy frío. Asegúrense de abrigarse bien con varias capas, gorro, guantes y bufanda para el camino al colegio. No se espera lluvia, pero el frío será intenso.",
+    "mensaje": "¡Abríguense bien, familia! Hace mucho frío hoy, con temperaturas bajo cero. Asegúrense de usar varias capas y guantes para la caminata al colegio. El sol nos acompañará, pero no calentará mucho.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "12 km/h",
+        "velocidad": "09 km/h",
         "direccion_texto": "N",
-        "angulo": 10
+        "angulo": 21
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "-3.8°C"
+            "icono": "sol",
+            "temp": "-0.3°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "-1.0°C"
+            "icono": "sol",
+            "temp": "-6.2°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-7.4°C"
+            "temp": "-7.6°C"
         }
     }
 }
