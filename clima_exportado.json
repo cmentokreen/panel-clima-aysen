@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien, familia! Hace mucho frío hoy, con temperaturas bajo cero. Asegúrense de usar varias capas y guantes para la caminata al colegio. El sol nos acompañará, pero no calentará mucho.",
+    "mensaje": "¡Hola familia! Hoy será un día de frío extremo.\nAsegúrense de abrigarse muy bien con varias capas, guantes y gorro para el camino al colegio.\nEl viento es ligero, pero la sensación térmica será muy baja.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "09 km/h",
-        "direccion_texto": "N",
-        "angulo": 21
+        "velocidad": "03 km/h",
+        "direccion_texto": "NE",
+        "angulo": 43
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "-0.3°C"
+            "icono": "nubes",
+            "temp": "-5°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "-6.2°C"
+            "temp": "-2°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "-7.6°C"
+            "icono": "nubes",
+            "temp": "-7°C"
         }
     }
 }
