@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy será un día de frío extremo.\nAsegúrense de abrigarse muy bien con varias capas, guantes y gorro para el camino al colegio.\nEl viento es ligero, pero la sensación térmica será muy baja.",
+    "mensaje": "¡Familia, prepárense para un día muy frío! La temperatura actual es de -10.3°C. Por la tarde, esperamos nieve con temperaturas bajo cero. Abríguense bien con varias capas, botas y paraguas para la nieve al salir al colegio.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "03 km/h",
-        "direccion_texto": "NE",
-        "angulo": 43
+        "velocidad": "1 km/h",
+        "direccion_texto": "NNE",
+        "angulo": 24
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "-5°C"
+            "temp": "-4.8°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "-2°C"
+            "icono": "nieve",
+            "temp": "-1.9°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "-7°C"
+            "icono": "nieve",
+            "temp": "-3.5°C"
         }
     }
 }
