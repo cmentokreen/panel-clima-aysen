@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Familia, prepárense para un día muy frío! La temperatura actual es de -10.3°C. Por la tarde, esperamos nieve con temperaturas bajo cero. Abríguense bien con varias capas, botas y paraguas para la nieve al salir al colegio.",
+    "mensaje": "¡Hace mucho frío hoy! Abríguense bien con varias capas, guantes y gorro para el camino al colegio.\nSe esperan temperaturas bajo cero y posible nieve. ¡Manténganse calentitos!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "1 km/h",
-        "direccion_texto": "NNE",
-        "angulo": 24
+        "velocidad": "6 km/h",
+        "direccion_texto": "SSW",
+        "angulo": 205
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "-4.8°C"
+            "icono": "nieve",
+            "temp": "-1°C"
         },
         "16:00": {
             "icono": "nieve",
-            "temp": "-1.9°C"
+            "temp": "1°C"
         },
         "20:00": {
             "icono": "nieve",
-            "temp": "-3.5°C"
+            "temp": "-1°C"
         }
     }
 }
