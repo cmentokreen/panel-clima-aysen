@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hace mucho frío hoy! Abríguense bien con varias capas, guantes y gorro para el camino al colegio.\nSe esperan temperaturas bajo cero y posible nieve. ¡Manténganse calentitos!",
+    "mensaje": "¡Familia, abríguense muy bien! Hace mucho frío y hay probabilidad de nieve o llovizna. Por la tarde mejorará un poco, pero al volver hará frío de nuevo.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "6 km/h",
-        "direccion_texto": "SSW",
-        "angulo": 205
+        "velocidad": "2 km/h",
+        "direccion_texto": "NE",
+        "angulo": 59
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nieve",
-            "temp": "-1°C"
+            "icono": "nubes",
+            "temp": "3.5°C"
         },
         "16:00": {
-            "icono": "nieve",
-            "temp": "1°C"
+            "icono": "lluvia",
+            "temp": "4.5°C"
         },
         "20:00": {
-            "icono": "nieve",
-            "temp": "-1°C"
+            "icono": "sol",
+            "temp": "-0.4°C"
         }
     }
 }
