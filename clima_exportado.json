@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien hoy! Hará frío y hay probabilidad de lluvia.\nNo olviden sus paraguas y abrigos para el camino al colegio.",
+    "mensaje": "¡Familia! Hoy será un día frío, con temperaturas bajo cero por la tarde.\nAbríguense bien para el camino al colegio, ¡pero al menos no lloverá!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "14 km/h",
+        "velocidad": "6 km/h",
         "direccion_texto": "NE",
-        "angulo": 26
+        "angulo": 31
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "3.4°C"
+            "icono": "nubes",
+            "temp": "2°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "2.1°C"
+            "temp": "2°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "0.0°C"
+            "temp": "-5°C"
         }
     }
 }
