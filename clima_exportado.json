@@ -1,10 +1,10 @@
 {
-    "mensaje": "¡Hola familia! Hoy será un día muy frío y nublado. Abríguense mucho para ir al colegio, con varias capas, gorro y guantes. ¡Manténganse calentitos!",
+    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío, con temperaturas bajo cero.\nAsegúrense de abrigarse muy bien para el camino al colegio.\nNo se espera lluvia, pero la noche traerá algo de nieve.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "2 km/h",
-        "direccion_texto": "NNW",
-        "angulo": 348
+        "velocidad": "7 km/h",
+        "direccion_texto": "SW",
+        "angulo": 220
     },
     "pronostico_tarde": {
         "12:00": {
@@ -12,12 +12,12 @@
             "temp": "-4°C"
         },
         "16:00": {
-            "icono": "nubes",
+            "icono": "sol",
             "temp": "-1°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "-7°C"
+            "temp": "-5°C"
         }
     }
 }
