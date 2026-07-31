@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien! Hará mucho frío hoy y nevará por la tarde. ¡No olviden sus guantes y gorros para el camino al colegio!",
+    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío, con temperaturas bajo cero y posible nieve al mediodía. Abríguense bien con gorros, guantes y bufandas para el camino al colegio. ¡Caminen con cuidado!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "5 km/h",
-        "direccion_texto": "SW",
-        "angulo": 214
+        "velocidad": "6 km/h",
+        "direccion_texto": "WSW",
+        "angulo": 249
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nieve",
-            "temp": "-0.5°C"
+            "icono": "sol",
+            "temp": "1.9°C"
         },
         "16:00": {
-            "icono": "nieve",
-            "temp": "0.5°C"
+            "icono": "nubes",
+            "temp": "-1.9°C"
         },
         "20:00": {
-            "icono": "nieve",
-            "temp": "-0.1°C"
+            "icono": "nubes",
+            "temp": "-2.5°C"
         }
     }
 }
