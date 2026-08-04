@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Familia, abríguense bien! Hace mucho frío y se espera lluvia o nieve por la tarde. No olviden sus paraguas y ropa impermeable para el camino al colegio.",
+    "mensaje": "¡Abríguense muy bien! Hoy tendremos un día extremadamente frío con posibles nevadas y viento helado. No olviden gorros, guantes y bufandas para el camino al colegio.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "03 km/h",
-        "direccion_texto": "WSW",
-        "angulo": 261
+        "velocidad": "0.4 km/h",
+        "direccion_texto": "E",
+        "angulo": 90
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "0.9°C"
+            "icono": "nieve",
+            "temp": "2°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "1.8°C"
+            "icono": "nubes",
+            "temp": "3°C"
         },
         "20:00": {
-            "icono": "nieve",
-            "temp": "-0.1°C"
+            "icono": "nubes",
+            "temp": "1°C"
         }
     }
 }
