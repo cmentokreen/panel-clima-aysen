@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense muy bien! Hoy tendremos un día extremadamente frío con posibles nevadas y viento helado. No olviden gorros, guantes y bufandas para el camino al colegio.",
+    "mensaje": "¡Buenos días, familia! Hoy será un día frío, así que abríguense bien con varias capas. El camino al colegio será fresco, pero sin lluvia. ¡Que tengan un excelente día!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "0.4 km/h",
+        "velocidad": "7 km/h",
         "direccion_texto": "E",
-        "angulo": 90
+        "angulo": 84
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nieve",
-            "temp": "2°C"
+            "icono": "sol",
+            "temp": "4.4°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "3°C"
+            "icono": "sol",
+            "temp": "4.0°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "1°C"
+            "icono": "sol",
+            "temp": "-2.0°C"
         }
     }
 }
