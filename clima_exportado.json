@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día frío, así que abríguense bien con varias capas. El camino al colegio será fresco, pero sin lluvia. ¡Que tengan un excelente día!",
+    "mensaje": "¡Hola familia! El día está frío, con temperaturas cercanas a cero y posibles nevadas/lloviznas. Abríguense bien con gorro y guantes, y lleven paraguas o impermeables. ¡Caminemos con cuidado al colegio!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "7 km/h",
+        "velocidad": "11 km/h",
         "direccion_texto": "E",
-        "angulo": 84
+        "angulo": 103
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "4.4°C"
+            "icono": "nieve",
+            "temp": "3.9°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "4.0°C"
+            "icono": "nieve",
+            "temp": "3.1°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "-2.0°C"
+            "icono": "lluvia",
+            "temp": "2.6°C"
         }
     }
 }
