@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien! La mañana estará muy fría, con temperaturas bajo cero.\nEl viento será ligero. ¡Un buen abrigo y guantes serán sus mejores amigos\npara ir al colegio!",
+    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío. Abríguense bien con varias capas para el camino al colegio, ¡y no olviden los guantes y gorros! Podría nevar un poco al mediodía.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "NE",
-        "angulo": 39
+        "velocidad": "7 km/h",
+        "direccion_texto": "N",
+        "angulo": 11
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "2.6°C"
+            "icono": "nieve",
+            "temp": "1.7°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "3.0°C"
+            "icono": "nubes",
+            "temp": "2.5°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "0.0°C"
+            "icono": "sol",
+            "temp": "-4.4°C"
         }
     }
 }
