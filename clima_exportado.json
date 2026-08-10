@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Familia, abríguense bien! Hoy será un día de frío extremo con temperaturas bajo cero. No olviden gorros, guantes y bufandas para el camino al colegio. ¡Manténganse calentitos!",
+    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío, con temperaturas bajo cero por la mañana. Abríguense bien para el camino al colegio, ¡gorro y guantes serán sus mejores amigos! Por la tarde subirá un poco la temperatura, pero seguirá fresco.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "3 km/h",
+        "velocidad": "6 km/h",
         "direccion_texto": "SW",
-        "angulo": 211
+        "angulo": 228
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "-3.4°C"
+            "temp": "-1°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "-0.6°C"
+            "temp": "3°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-7.5°C"
+            "temp": "-5°C"
         }
     }
 }
