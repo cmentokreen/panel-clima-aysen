@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío, con temperaturas bajo cero por la mañana. Abríguense bien para el camino al colegio, ¡gorro y guantes serán sus mejores amigos! Por la tarde subirá un poco la temperatura, pero seguirá fresco.",
+    "mensaje": "¡Buenos días, familia! Hoy será un día gélido.\nAsegúrense de abrigarse muy bien con varias capas, gorro y guantes para el camino al colegio.\nEl sol nos acompañará, pero el frío será intenso.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "6 km/h",
-        "direccion_texto": "SW",
-        "angulo": 228
+        "velocidad": "3 km/h",
+        "direccion_texto": "E",
+        "angulo": 79
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "-1°C"
+            "temp": "-0.1°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "3°C"
+            "temp": "4.1°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-5°C"
+            "temp": "-3.9°C"
         }
     }
 }
