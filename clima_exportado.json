@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día gélido.\nAsegúrense de abrigarse muy bien con varias capas, gorro y guantes para el camino al colegio.\nEl sol nos acompañará, pero el frío será intenso.",
+    "mensaje": "¡Hace mucho frío! La mañana estará helada, con temperaturas bajo cero. Abríguense muy bien con varias capas, gorro y guantes para el camino al colegio. No se espera lluvia, pero estará nublado.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "3 km/h",
-        "direccion_texto": "E",
-        "angulo": 79
+        "velocidad": "2 km/h",
+        "direccion_texto": "NNE",
+        "angulo": 16
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "-0.1°C"
+            "icono": "nubes",
+            "temp": "2°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "4.1°C"
+            "temp": "4°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "-3.9°C"
+            "icono": "nubes",
+            "temp": "0°C"
         }
     }
 }
