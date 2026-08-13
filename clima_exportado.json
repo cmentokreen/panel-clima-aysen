@@ -1,10 +1,10 @@
 {
-    "mensaje": "¡Hace mucho frío! La mañana estará helada, con temperaturas bajo cero. Abríguense muy bien con varias capas, gorro y guantes para el camino al colegio. No se espera lluvia, pero estará nublado.",
+    "mensaje": "¡Abríguense bien hoy! Hace mucho frío, con temperaturas bajo cero y viento ligero del Norte. Por la tarde estará nublado y las temperaturas subirán un poco, pero sigan abrigados para el camino al colegio.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
         "velocidad": "2 km/h",
-        "direccion_texto": "NNE",
-        "angulo": 16
+        "direccion_texto": "N",
+        "angulo": 22
     },
     "pronostico_tarde": {
         "12:00": {
@@ -12,12 +12,12 @@
             "temp": "2°C"
         },
         "16:00": {
-            "icono": "sol",
+            "icono": "nubes",
             "temp": "4°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "0°C"
+            "temp": "2°C"
         }
     }
 }
