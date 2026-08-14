@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien hoy! Hace mucho frío, con temperaturas bajo cero y viento ligero del Norte. Por la tarde estará nublado y las temperaturas subirán un poco, pero sigan abrigados para el camino al colegio.",
+    "mensaje": "¡Abrígate bien hoy! Hace frío y el día estará nublado.\nLa tarde será fresca, así que lleva tu abrigo para el camino al colegio.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "2 km/h",
-        "direccion_texto": "N",
-        "angulo": 22
+        "velocidad": "03 km/h",
+        "direccion_texto": "NE",
+        "angulo": 51
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "2°C"
+            "temp": "3.2°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "4°C"
+            "temp": "0.9°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "2°C"
+            "temp": "0.7°C"
         }
     }
 }
