@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío, especialmente al salir. Abríguense bien con varias capas, guantes y gorro para el camino al colegio. El sol intentará asomarse, pero no calentará mucho.",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Hola familia! Hoy tendremos un día frío y lluvioso. Asegúrense de llevar abrigos impermeables y paraguas para el camino al colegio. ¡Manténganse secos y calentitos!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "09 km/h",
-        "direccion_texto": "N",
-        "angulo": 357
+        "velocidad": "14 km/h",
+        "direccion_texto": "NW",
+        "angulo": 326
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "3.8°C"
+            "icono": "lluvia",
+            "temp": "5.6°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "5.4°C"
+            "icono": "lluvia",
+            "temp": "5.9°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "-0.0°C"
+            "icono": "lluvia",
+            "temp": "4.0°C"
         }
     }
 }
