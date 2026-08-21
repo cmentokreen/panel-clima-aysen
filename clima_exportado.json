@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense muy bien! Hoy será un día de frío extremo.\nUsen varias capas, gorro, guantes y bufanda para el camino al colegio.\n¡Manténganse calentitos!",
+    "mensaje": "¡Hola familia! Hoy será un día frío, con temperaturas bajo cero por la tarde y noche. Abríguense muy bien con varias capas para el camino al colegio. ¡No olviden guantes y gorro!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "4 km/h",
-        "direccion_texto": "NE",
-        "angulo": 45
+        "velocidad": "3 km/h",
+        "direccion_texto": "N",
+        "angulo": 3
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "1°C"
+            "icono": "nubes",
+            "temp": "0.4°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "4°C"
+            "temp": "3.4°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-1°C"
+            "temp": "-1.5°C"
         }
     }
 }
