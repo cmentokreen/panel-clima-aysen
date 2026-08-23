@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día frío pero despejado. Abríguense bien con varias capas para el camino al colegio. ¡Un buen gorro y guantes serán sus mejores amigos!",
+    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío. Asegúrense de abrigarse muy bien con varias capas, guantes y gorro para el camino al colegio. El viento será ligero, pero la sensación térmica será baja.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "4 km/h",
-        "direccion_texto": "S",
-        "angulo": 201
+        "velocidad": "3 km/h",
+        "direccion_texto": "E",
+        "angulo": 90
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "4°C"
+            "icono": "nubes",
+            "temp": "2.5°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "8°C"
+            "temp": "5.7°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "-1°C"
+            "temp": "0.0°C"
         }
     }
 }
