@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío. Asegúrense de abrigarse bien con varias capas y llevar paraguas o impermeables, ya que se esperan lloviznas. ¡Caminen con cuidado al colegio!",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Abríguense bien y no olviden sus paraguas! Hará frío y lloverá camino al colegio. ¡Que tengan un buen día!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "4 km/h",
-        "direccion_texto": "N",
-        "angulo": 1
+        "velocidad": "1 km/h",
+        "direccion_texto": "Oeste",
+        "angulo": 267
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "lluvia",
-            "temp": "2°C"
+            "temp": "4.9°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "5°C"
+            "icono": "lluvia",
+            "temp": "3.2°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "3°C"
+            "icono": "lluvia",
+            "temp": "1.3°C"
         }
     }
 }
