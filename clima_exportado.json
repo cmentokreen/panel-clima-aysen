@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien y no olviden sus paraguas! Hará frío y lloverá camino al colegio. ¡Que tengan un buen día!",
+    "mensaje": "¡Abrígate bien! Hoy será un día frío y lluvioso. No olvides tu paraguas y un buen abrigo para ir al colegio.",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "1 km/h",
-        "direccion_texto": "Oeste",
-        "angulo": 267
+        "velocidad": "03 km/h",
+        "direccion_texto": "SSE",
+        "angulo": 175
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "lluvia",
-            "temp": "4.9°C"
+            "temp": "6.1°C"
         },
         "16:00": {
             "icono": "lluvia",
-            "temp": "3.2°C"
+            "temp": "6.9°C"
         },
         "20:00": {
             "icono": "lluvia",
-            "temp": "1.3°C"
+            "temp": "3.0°C"
         }
     }
 }
