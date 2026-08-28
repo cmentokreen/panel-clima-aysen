@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy tendremos un día fresco y nublado. Por la tarde, se esperan lluvias, así que no olviden sus paraguas y chaquetas impermeables. ¡Abríguense bien para el colegio!",
+    "mensaje": "¡Hola familia! Hoy tendremos un día fresco con temperaturas alrededor de 7°C. Por la tarde, hay probabilidad de lluvia, así que no olviden sus paraguas y abrigos para el camino al colegio. ¡Que tengan un buen día!",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "7 km/h",
-        "direccion_texto": "O",
-        "angulo": 269
+        "velocidad": "5 km/h",
+        "direccion_texto": "SW",
+        "angulo": 236
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "5.2°C"
+            "icono": "nubes",
+            "temp": "6.5°C"
         },
         "16:00": {
             "icono": "lluvia",
-            "temp": "6.1°C"
+            "temp": "7.1°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "3.5°C"
+            "icono": "nubes",
+            "temp": "3.2°C"
         }
     }
 }
