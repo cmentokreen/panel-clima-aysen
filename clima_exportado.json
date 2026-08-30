@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy el día estará fresco, con temperaturas alrededor de 6°C ahora. Por la tarde esperamos algo de lluvia y las temperaturas bajarán a 2°C por la noche. ¡No olviden sus abrigos y paraguas para el camino al colegio!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Hola familia! Hoy tendremos un día fresco con posible nieve por la tarde. Abríguense bien para el colegio, ¡especialmente con gorro y guantes!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "03 km/h",
-        "direccion_texto": "NNE",
-        "angulo": 19
+        "velocidad": "1 km/h",
+        "direccion_texto": "E",
+        "angulo": 82
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "lluvia",
-            "temp": "7°C"
+            "temp": "7.3°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "8°C"
+            "temp": "7.5°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "2°C"
+            "icono": "nieve",
+            "temp": "1.6°C"
         }
     }
 }
