@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día fresco con posible nieve por la tarde. Abríguense bien para el colegio, ¡especialmente con gorro y guantes!",
+    "mensaje": "¡Abríguense bien hoy! Hará frío y se espera nieve o lluvia ligera.\nNo olviden sus paraguas y abrigos para el camino al colegio.\n¡Caminen con cuidado!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "1 km/h",
-        "direccion_texto": "E",
-        "angulo": 82
+        "velocidad": "15 km/h",
+        "direccion_texto": "ENE",
+        "angulo": 63
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "lluvia",
-            "temp": "7.3°C"
+            "temp": "4°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "7.5°C"
+            "icono": "nieve",
+            "temp": "3°C"
         },
         "20:00": {
-            "icono": "nieve",
-            "temp": "1.6°C"
+            "icono": "nubes",
+            "temp": "1°C"
         }
     }
 }
