@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Atención, familia! Hoy el día estará muy frío, con temperaturas bajo cero por la tarde. Abríguense bien con varias capas y usen calzado adecuado, ¡podría haber hielo en el camino al colegio!",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "Hoy tendremos un día fresco. Por la tarde, la probabilidad de lluvia aumenta, así que lleva paraguas y un buen abrigo para el camino al colegio.",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "3 km/h",
-        "direccion_texto": "NW",
-        "angulo": 331
+        "velocidad": "11 km/h",
+        "direccion_texto": "SW",
+        "angulo": 240
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "6.0°C"
+            "icono": "nubes",
+            "temp": "6°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "-0.7°C"
+            "icono": "nubes",
+            "temp": "6°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "0.4°C"
+            "icono": "lluvia",
+            "temp": "3°C"
         }
     }
 }
