@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día fresco pero agradable. No se esperan lluvias, así que disfruten la caminata al colegio. Abríguense bien, especialmente para la tarde, ya que la temperatura bajará.",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Abríguense bien! La temperatura actual es de -1.2°C y la mínima de hoy fue de -5.3°C. Al mediodía subirá a 3.9°C. El viento es ligero (6 km/h). ¡Abrigarse para el camino al colegio!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "7 km/h",
-        "direccion_texto": "ENE",
-        "angulo": 76
+        "velocidad": "6 km/h",
+        "direccion_texto": "NNE",
+        "angulo": 33
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "7.9°C"
+            "temp": "3.9°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "7.3°C"
+            "icono": "sol",
+            "temp": "8.2°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "0.9°C"
+            "temp": "2.0°C"
         }
     }
 }
