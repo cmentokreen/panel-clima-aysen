@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Abríguense bien! La temperatura actual es de -1.2°C y la mínima de hoy fue de -5.3°C. Al mediodía subirá a 3.9°C. El viento es ligero (6 km/h). ¡Abrigarse para el camino al colegio!",
+    "mensaje": "¡Hola familia! Hoy el día empieza frío, así que abrigaos bien para el camino al colegio. Por suerte, el sol nos acompañará y la tarde será más cálida. ¡Que tengáis un gran día!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "6 km/h",
-        "direccion_texto": "NNE",
-        "angulo": 33
+        "velocidad": "2 km/h",
+        "direccion_texto": "SE",
+        "angulo": 151
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "3.9°C"
+            "temp": "7°C"
         },
         "16:00": {
             "icono": "sol",
-            "temp": "8.2°C"
+            "temp": "13°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "2.0°C"
+            "temp": "4°C"
         }
     }
 }
