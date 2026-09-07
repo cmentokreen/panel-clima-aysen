@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy el día empieza frío, así que abrigaos bien para el camino al colegio. Por suerte, el sol nos acompañará y la tarde será más cálida. ¡Que tengáis un gran día!",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Abríguense bien para la caminata al colegio!\nAunque el viento sopla suave del suroeste,\nel sol nos acompañará y la tarde será agradable.",
+    "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "2 km/h",
-        "direccion_texto": "SE",
-        "angulo": 151
+        "velocidad": "9 km/h",
+        "direccion_texto": "SW",
+        "angulo": 209
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "7°C"
+            "temp": "7.3°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "13°C"
+            "icono": "nubes",
+            "temp": "13.0°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "4°C"
+            "icono": "nubes",
+            "temp": "4.7°C"
         }
     }
 }
