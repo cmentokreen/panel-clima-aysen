@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día fresco. La temperatura actual es de 7.2°C, con una máxima de 8.2°C. Hay una pequeña probabilidad de llovizna por la tarde. Vístanse en capas y lleven un paraguas pequeño por si acaso para el camino al colegio.",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Hola familia! Hoy será un día fresco y con lluvia por la tarde. Asegúrense de llevar abrigos y paraguas para el camino al colegio. ¡Manténganse secos y calentitos!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "NNE",
-        "angulo": 21
+        "velocidad": "7 km/h",
+        "direccion_texto": "NE",
+        "angulo": 64
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "6.7°C"
+            "temp": "6°C"
         },
         "16:00": {
             "icono": "lluvia",
-            "temp": "8.7°C"
+            "temp": "8°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "3.8°C"
+            "icono": "lluvia",
+            "temp": "2°C"
         }
     }
 }
