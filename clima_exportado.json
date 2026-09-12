@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy el día estará fresco, con temperaturas que subirán un poco por la tarde.\nNo se espera lluvia, pero abríguense bien para el camino al colegio,\n¡especialmente por la mañana!",
+    "mensaje": "¡Buenos días, familia! Hoy será un día muy frío, con temperaturas bajo cero por la mañana. Asegúrense de abrigarse muy bien para la caminata al colegio. ¡Gorros, guantes y bufandas son imprescindibles! Por la tarde, el sol asomará y la temperatura subirá un poco, pero el frío seguirá presente.",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
         "velocidad": "11 km/h",
-        "direccion_texto": "S",
-        "angulo": 191
+        "direccion_texto": "NE",
+        "angulo": 43
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "4.1°C"
+            "temp": "7°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "7.3°C"
+            "icono": "nubes",
+            "temp": "11°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "2.8°C"
+            "temp": "4°C"
         }
     }
 }
