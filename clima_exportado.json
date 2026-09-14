@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Día fresco! Abríguense bien para la mañana. Por la tarde el sol calentará un poco más, pero el viento será fresco. ¡Disfruten el camino!",
+    "mensaje": "¡Hola familia! Hoy el día está fresco pero sin lluvia. Abríguense bien para el camino al colegio. El viento sopla moderado del suroeste. ¡Que tengan un buen día!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "NNE",
-        "angulo": 33
+        "velocidad": "20 km/h",
+        "direccion_texto": "SW",
+        "angulo": 212
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "8°C"
+            "temp": "8.0°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "12°C"
+            "icono": "nubes",
+            "temp": "9.2°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "4°C"
+            "icono": "nubes",
+            "temp": "3.8°C"
         }
     }
 }
