@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy el día está fresco pero sin lluvia. Abríguense bien para el camino al colegio. El viento sopla moderado del suroeste. ¡Que tengan un buen día!",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Buenos días, familia! Hoy será un día frío, con temperaturas bajo cero por la mañana y máximas de unos 10°C por la tarde. Vístanse con muchas capas para el camino al colegio, ¡pero no se preocupen por la lluvia!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "20 km/h",
+        "velocidad": "3 km/h",
         "direccion_texto": "SW",
-        "angulo": 212
+        "angulo": 226
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "8.0°C"
+            "temp": "6°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "9.2°C"
+            "temp": "11°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "3.8°C"
+            "temp": "5°C"
         }
     }
 }
