@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy será un día frío, con temperaturas bajo cero por la mañana y máximas de unos 10°C por la tarde. Vístanse con muchas capas para el camino al colegio, ¡pero no se preocupen por la lluvia!",
-    "escenario_imagen": "frio_extremo",
+    "mensaje": "¡Hola familia! Hoy tendremos un día fresco y lluvioso. Asegúrense de llevar paraguas y abrigos para el camino al colegio. El viento estará ligero del oeste.",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "3 km/h",
-        "direccion_texto": "SW",
-        "angulo": 226
+        "velocidad": "11 km/h",
+        "direccion_texto": "Oeste",
+        "angulo": 255
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "6°C"
+            "icono": "lluvia",
+            "temp": "7.8°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "11°C"
+            "icono": "lluvia",
+            "temp": "8.4°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "5°C"
+            "icono": "lluvia",
+            "temp": "5.2°C"
         }
     }
 }
