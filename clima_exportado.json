@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy estará fresco y con probabilidad de lluvia. Asegúrense de llevar paraguas y un buen abrigo para el camino al colegio. ¡Que tengan un excelente día!",
+    "mensaje": "¡Hola familia! Hoy será un día fresco con lluvia y posible nieve por la tarde. Abríguense bien y lleven paraguas para el camino al colegio.",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "7 km/h",
-        "direccion_texto": "NNW",
-        "angulo": 340
+        "velocidad": "12 km/h",
+        "direccion_texto": "W",
+        "angulo": 250
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "lluvia",
-            "temp": "10.8°C"
+            "temp": "6.5°C"
         },
         "16:00": {
             "icono": "lluvia",
-            "temp": "10.1°C"
+            "temp": "5.0°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "8.5°C"
+            "icono": "nieve",
+            "temp": "2.5°C"
         }
     }
 }
