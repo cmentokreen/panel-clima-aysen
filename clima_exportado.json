@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Familia, prepárense para un día frío y lluvioso! Asegúrense de llevar abrigos impermeables y paraguas para el camino al colegio. Las temperaturas se mantendrán bajas y la lluvia nos acompañará toda la tarde.",
+    "mensaje": "¡Familia, abríguense bien! Hoy estará fresco, con temperaturas entre 3 y 4°C y viento suave del SW.\nSe esperan nubes y posible llovizna por la tarde.\n¡No olviden sus paraguas y chaquetas para el camino al colegio!",
     "escenario_imagen": "lluvia",
     "viento_actual": {
         "velocidad": "5 km/h",
-        "direccion_texto": "WSW",
-        "angulo": 242
+        "direccion_texto": "SW",
+        "angulo": 214
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "6°C"
+            "icono": "nubes",
+            "temp": "4°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "5°C"
+            "icono": "nubes",
+            "temp": "4°C"
         },
         "20:00": {
             "icono": "lluvia",
-            "temp": "2°C"
+            "temp": "3°C"
         }
     }
 }
