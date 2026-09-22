@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Familia, abríguense bien! Hoy estará fresco, con temperaturas entre 3 y 4°C y viento suave del SW.\nSe esperan nubes y posible llovizna por la tarde.\n¡No olviden sus paraguas y chaquetas para el camino al colegio!",
+    "mensaje": "¡Abríguense bien! Hoy tendremos un día frío y con lluvia intermitente. No olviden sus paraguas y chaquetas impermeables para el camino al colegio.",
     "escenario_imagen": "lluvia",
     "viento_actual": {
         "velocidad": "5 km/h",
-        "direccion_texto": "SW",
-        "angulo": 214
+        "direccion_texto": "SSW",
+        "angulo": 203
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "4°C"
+            "icono": "lluvia",
+            "temp": "4.5°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "4°C"
+            "icono": "lluvia",
+            "temp": "6.8°C"
         },
         "20:00": {
             "icono": "lluvia",
-            "temp": "3°C"
+            "temp": "5.6°C"
         }
     }
 }
