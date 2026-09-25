@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy el día está fresco, con 5.7°C.\nPor la tarde se esperan lluvias, así que no olviden sus paraguas y abrigos\npara el camino al colegio. ¡A mantenerse secos y calentitos!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Hola familia! Hoy será un día fresco. Abríguense bien para el camino al colegio, especialmente por la mañana. No olviden sus chaquetas y guantes. ¡Que tengan un gran día!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "16 km/h",
-        "direccion_texto": "W",
-        "angulo": 259
+        "velocidad": "11 km/h",
+        "direccion_texto": "SW",
+        "angulo": 204
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "8°C"
+            "icono": "nubes",
+            "temp": "6.5°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "6°C"
+            "icono": "nubes",
+            "temp": "8.2°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "4°C"
+            "icono": "sol",
+            "temp": "4.0°C"
         }
     }
 }
