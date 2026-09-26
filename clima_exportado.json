@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy será un día fresco. Abríguense bien para el camino al colegio, especialmente por la mañana. No olviden sus chaquetas y guantes. ¡Que tengan un gran día!",
+    "mensaje": "¡Abríguense bien para el colegio!\nHace frío y la tarde traerá nubes, nieve y llovizna.\n¡No olviden sus paraguas y ropa abrigadora!",
     "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "SW",
-        "angulo": 204
+        "velocidad": "6 km/h",
+        "direccion_texto": "S",
+        "angulo": 164
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "6.5°C"
+            "temp": "8°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "8.2°C"
+            "icono": "nieve",
+            "temp": "7°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "4.0°C"
+            "icono": "lluvia",
+            "temp": "6°C"
         }
     }
 }
