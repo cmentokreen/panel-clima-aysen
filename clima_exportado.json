@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos una tarde fresca y con algunas nubes, pero sin lluvia. El viento soplará suave desde el oeste. Abríguense bien para la caminata al colegio.",
+    "mensaje": "¡Buenos días, familia! Hoy tendremos un día fresco por la mañana, pero la tarde será agradable con temperaturas que subirán. No se espera lluvia, así que es un buen día para caminar al colegio. ¡Abríguense bien por la mañana y disfruten del sol!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "14 km/h",
-        "direccion_texto": "W",
-        "angulo": 262
+        "velocidad": "13 km/h",
+        "direccion_texto": "SSW",
+        "angulo": 195
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "8°C"
-        },
-        "16:00": {
             "icono": "nubes",
             "temp": "11°C"
         },
+        "16:00": {
+            "icono": "nubes",
+            "temp": "14°C"
+        },
         "20:00": {
             "icono": "sol",
-            "temp": "7°C"
+            "temp": "10°C"
         }
     }
 }
