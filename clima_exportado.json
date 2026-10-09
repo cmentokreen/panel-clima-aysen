@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día mayormente nublado pero agradable.\nLa temperatura es suave y no se espera lluvia.\n¡Perfecto para caminar al colegio!",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Hola familia! Hoy tendremos un día con temperaturas agradables, pero no olviden llevar un paraguas o chaqueta impermeable, ya que se esperan lluvias por la tarde. ¡Que tengan un buen día en el colegio!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "05 km/h",
-        "direccion_texto": "SW",
-        "angulo": 240
+        "velocidad": "9 km/h",
+        "direccion_texto": "W",
+        "angulo": 254
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "10.6°C"
+            "temp": "13°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "13.0°C"
+            "icono": "lluvia",
+            "temp": "16°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "10.6°C"
+            "icono": "sol",
+            "temp": "12°C"
         }
     }
 }
