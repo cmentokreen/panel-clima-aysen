@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos una tarde con probabilidad de lluvia.\nAsegúrense de llevar paraguas y un buen abrigo para el camino al colegio.\nEl viento del SW se sentirá un poco. ¡Que tengan un buen día!",
+    "mensaje": "¡Hola familia! Hoy tendremos un día templado, con temperaturas agradables para caminar. Sin embargo, por la tarde hay probabilidad de llovizna ligera, así que no olviden llevar un paraguas pequeño o una chaqueta impermeable. ¡Que tengan un buen día en el colegio!",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "15 km/h",
-        "direccion_texto": "SW",
-        "angulo": 207
+        "velocidad": "11 km/h",
+        "direccion_texto": "S",
+        "angulo": 188
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "14°C"
+            "icono": "nubes",
+            "temp": "15.5°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "17°C"
+            "temp": "15.8°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "13°C"
+            "temp": "11.9°C"
         }
     }
 }
