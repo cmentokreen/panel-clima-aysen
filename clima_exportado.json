@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día templado, con temperaturas agradables para caminar. Sin embargo, por la tarde hay probabilidad de llovizna ligera, así que no olviden llevar un paraguas pequeño o una chaqueta impermeable. ¡Que tengan un buen día en el colegio!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Hola familia! Día agradable para el colegio. 15.4°C y viento suave del oeste. Por la tarde, nubes y unos 13°C. ¡Abríguense y disfruten!",
+    "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "S",
-        "angulo": 188
+        "velocidad": "14 km/h",
+        "direccion_texto": "W",
+        "angulo": 248
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "15.5°C"
+            "temp": "11.9°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "15.8°C"
+            "temp": "13.3°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "11.9°C"
+            "icono": "sol",
+            "temp": "8.7°C"
         }
     }
 }
