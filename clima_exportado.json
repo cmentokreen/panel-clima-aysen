@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Día agradable para el colegio. 15.4°C y viento suave del oeste. Por la tarde, nubes y unos 13°C. ¡Abríguense y disfruten!",
+    "mensaje": "¡Qué día tan agradable para ir al colegio!\nEl sol brillará y la temperatura será perfecta para caminar.\n¡Disfruten el paseo!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "14 km/h",
-        "direccion_texto": "W",
-        "angulo": 248
+        "velocidad": "18 km/h",
+        "direccion_texto": "S",
+        "angulo": 179
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "11.9°C"
+            "icono": "sol",
+            "temp": "17.7°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "13.3°C"
+            "icono": "sol",
+            "temp": "16.5°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "8.7°C"
+            "icono": "nubes",
+            "temp": "9.8°C"
         }
     }
 }
