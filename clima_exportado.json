@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Qué día tan agradable para ir al colegio!\nEl sol brillará y la temperatura será perfecta para caminar.\n¡Disfruten el paseo!",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Hola familia! Hoy tendremos un día fresco por la mañana, con temperaturas subiendo a la tarde. Hay probabilidad de lluvia ligera después del mediodía, así que no olviden sus paraguas y un abrigo ligero para el camino al colegio. ¡Que tengan un gran día!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "18 km/h",
-        "direccion_texto": "S",
-        "angulo": 179
+        "velocidad": "11 km/h",
+        "direccion_texto": "SW",
+        "angulo": 218
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "17.7°C"
+            "icono": "nubes",
+            "temp": "15.3°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "16.5°C"
+            "icono": "lluvia",
+            "temp": "18.4°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "9.8°C"
+            "temp": "14.7°C"
         }
     }
 }
