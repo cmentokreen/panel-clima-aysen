@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy el día está fresco y nublado. Por la tarde, podría llover, así que no olviden sus paraguas. ¡A disfrutar el camino al colegio!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Buenos días, familia! Hoy la mañana estará fresca, con temperaturas entre 7 y 9°C y algo de niebla. Abríguense bien para el camino al colegio. ¡Y no olviden los paraguas para la tarde, que se viene la lluvia!",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "09 km/h",
-        "direccion_texto": "S",
-        "angulo": 200
+        "velocidad": "7 km/h",
+        "direccion_texto": "SW",
+        "angulo": 222
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "15.7°C"
+            "icono": "sol",
+            "temp": "16°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "19.2°C"
+            "icono": "lluvia",
+            "temp": "20°C"
         },
         "20:00": {
             "icono": "lluvia",
-            "temp": "14.1°C"
+            "temp": "14°C"
         }
     }
 }
