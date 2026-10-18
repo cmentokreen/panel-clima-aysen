@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día fresco y lluvioso.\nAsegúrense de llevar paraguas y abrigos para el camino al colegio.\nEl viento será suave.",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Hola, familia! Hoy el día estará agradable para ir al colegio. La temperatura actual es de 14°C y no se espera lluvia. ¡Disfruten la caminata!",
+    "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "07 km/h",
-        "direccion_texto": "SW",
-        "angulo": 228
+        "velocidad": "13 km/h",
+        "direccion_texto": "NE",
+        "angulo": 45
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "16.5°C"
+            "icono": "nubes",
+            "temp": "14°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "14.7°C"
+            "icono": "nubes",
+            "temp": "16°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "13.4°C"
+            "icono": "sol",
+            "temp": "13°C"
         }
     }
 }
