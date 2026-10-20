@@ -1,10 +1,10 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día agradable con temperaturas suaves. El viento es ligero, así que un abrigo ligero será suficiente para el camino al colegio. ¡Que tengan un excelente día!",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Hola familia! Hoy por la tarde se esperan lluvias y temperaturas más frescas. Asegúrense de llevar paraguas y abrigos para el camino al colegio. ¡Que tengan un buen día!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "14 km/h",
-        "direccion_texto": "SW",
-        "angulo": 219
+        "velocidad": "12 km/h",
+        "direccion_texto": "O",
+        "angulo": 260
     },
     "pronostico_tarde": {
         "12:00": {
@@ -12,12 +12,12 @@
             "temp": "15°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "19°C"
+            "icono": "lluvia",
+            "temp": "13°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "14°C"
+            "icono": "lluvia",
+            "temp": "11°C"
         }
     }
 }
