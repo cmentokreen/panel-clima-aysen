@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! Hoy estará fresco y con llovizna intermitente por la tarde. Abríguense bien y lleven paraguas para el camino al colegio. ¡Que tengan un gran día!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Buenos días, familia! Hoy tendremos un día fresco pero agradable, con temperaturas que subirán un poco por la tarde. No se espera lluvia, así que un paseo al colegio será tranquilo. ¡Abríguense bien y disfruten el camino!",
+    "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "2 km/h",
-        "direccion_texto": "WNW",
-        "angulo": 298
+        "velocidad": "11 km/h",
+        "direccion_texto": "S",
+        "angulo": 197
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "7°C"
+            "icono": "nubes",
+            "temp": "11.4°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "8°C"
+            "icono": "nubes",
+            "temp": "12.3°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "8°C"
+            "temp": "8.5°C"
         }
     }
 }
