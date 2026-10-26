@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos una mañana agradable, pero la tarde trae riesgo de lluvia. No olviden sus paraguas y chaquetas para el regreso del colegio. ¡Que tengan un buen día!",
+    "mensaje": "¡Hola familia! Parece que tendremos un día templado, pero la lluvia podría aparecer por la tarde. No olviden sus paraguas para el camino al colegio.",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "3 km/h",
-        "direccion_texto": "SW",
-        "angulo": 203
+        "velocidad": "22 km/h",
+        "direccion_texto": "S",
+        "angulo": 186
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "18.0°C"
+            "icono": "nubes",
+            "temp": "17°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "20.6°C"
+            "icono": "sol",
+            "temp": "18°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "14.6°C"
+            "icono": "sol",
+            "temp": "14°C"
         }
     }
 }
