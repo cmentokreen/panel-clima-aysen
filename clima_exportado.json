@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Qué lindo día para ir al colegio! Fresquito por la mañana, pero el sol brillará. El viento soplará un poco más fuerte por la tarde, ¡así que abrigaos bien!",
+    "mensaje": "¡Qué día tan agradable! El sol brillará y el viento será suave. Perfecto para ir en bici al colegio. ¡Disfruten el día!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "WSW",
-        "angulo": 242
+        "velocidad": "9 km/h",
+        "direccion_texto": "S",
+        "angulo": 176
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "13°C"
+            "icono": "sol",
+            "temp": "13.9°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "14°C"
+            "icono": "sol",
+            "temp": "20.3°C"
         },
         "20:00": {
             "icono": "sol",
-            "temp": "11°C"
+            "temp": "17.7°C"
         }
     }
 }
