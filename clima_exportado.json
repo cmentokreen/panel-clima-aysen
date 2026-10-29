@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Qué día tan agradable! El sol brillará y el viento será suave. Perfecto para ir en bici al colegio. ¡Disfruten el día!",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "Hoy tendremos un día cálido con nubes, pero ¡atención! Por la tarde-noche se esperan lluvias. No olvides tu paraguas para la vuelta a casa.",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
         "velocidad": "9 km/h",
-        "direccion_texto": "S",
-        "angulo": 176
+        "direccion_texto": "SW",
+        "angulo": 222
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "13.9°C"
+            "icono": "nubes",
+            "temp": "18°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "20.3°C"
+            "icono": "nubes",
+            "temp": "18°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "17.7°C"
+            "icono": "lluvia",
+            "temp": "12°C"
         }
     }
 }
