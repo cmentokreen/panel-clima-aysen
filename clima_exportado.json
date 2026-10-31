@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Qué lindo día para ir al colegio! La temperatura es agradable y no se esperan lluvias.\nUn abrigo ligero será suficiente para el camino.",
+    "mensaje": "¡Buenos días, familia! La mañana estará fresca y despejada, ideal para la caminata al colegio. Abríguense bien, pero tengan en cuenta que por la tarde se esperan algunas lloviznas. ¡No olviden sus paraguas para el regreso!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "5 km/h",
-        "direccion_texto": "NW",
-        "angulo": 326
+        "velocidad": "16 km/h",
+        "direccion_texto": "O",
+        "angulo": 252
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "12°C"
+            "temp": "11.9°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "14°C"
+            "icono": "lluvia",
+            "temp": "12.4°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "11°C"
+            "icono": "nubes",
+            "temp": "10.3°C"
         }
     }
 }
