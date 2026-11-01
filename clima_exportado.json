@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Buenos días, familia! La mañana estará fresca y despejada, ideal para la caminata al colegio. Abríguense bien, pero tengan en cuenta que por la tarde se esperan algunas lloviznas. ¡No olviden sus paraguas para el regreso!",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Hola familia! Hoy tendremos un día fresco y lluvioso.\nAsegúrense de llevar paraguas y abrigos para el camino al colegio.\n¡Manténganse secos y cálidos!",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "16 km/h",
-        "direccion_texto": "O",
-        "angulo": 252
+        "velocidad": "11 km/h",
+        "direccion_texto": "WSW",
+        "angulo": 251
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "11.9°C"
+            "icono": "lluvia",
+            "temp": "9.6°C"
         },
         "16:00": {
             "icono": "lluvia",
-            "temp": "12.4°C"
+            "temp": "8.8°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "10.3°C"
+            "icono": "lluvia",
+            "temp": "6.9°C"
         }
     }
 }
