@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día fresco y lluvioso.\nAsegúrense de llevar paraguas y abrigos para el camino al colegio.\n¡Manténganse secos y cálidos!",
+    "mensaje": "¡Hola familia! Hoy tendremos un día fresco y nublado. Por la tarde, podría haber llovizna ligera, así que lleven un paraguas o chaqueta impermeable para el colegio. ¡Que tengan un buen día!",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "WSW",
-        "angulo": 251
+        "velocidad": "9 km/h",
+        "direccion_texto": "W",
+        "angulo": 271
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "lluvia",
-            "temp": "9.6°C"
+            "temp": "10.0°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "8.8°C"
+            "icono": "nubes",
+            "temp": "12.3°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "6.9°C"
+            "icono": "sol",
+            "temp": "10.2°C"
         }
     }
 }
