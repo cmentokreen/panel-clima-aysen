@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día fresco con lluvia por la tarde.\nNo olviden sus paraguas y abrigos para el camino al colegio.\n¡Que tengan un excelente día!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Qué día tan agradable! Con sol y una brisa suave,\nes perfecto para caminar al colegio. \n¡Disfruten del paseo!",
+    "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "07 km/h",
-        "direccion_texto": "SE",
-        "angulo": 154
+        "velocidad": "11 km/h",
+        "direccion_texto": "W",
+        "angulo": 279
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "10°C"
+            "icono": "sol",
+            "temp": "13.7°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "12°C"
+            "icono": "sol",
+            "temp": "16.1°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "9°C"
+            "icono": "sol",
+            "temp": "12.7°C"
         }
     }
 }
