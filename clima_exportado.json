@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Qué día tan agradable! Con sol y una brisa suave,\nes perfecto para caminar al colegio. \n¡Disfruten del paseo!",
+    "mensaje": "¡Hola familia! Hoy tendremos un día agradable y despejado. La temperatura será templada, ideal para caminar al colegio. ¡Disfruten el paseo!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "11 km/h",
+        "velocidad": "12 km/h",
         "direccion_texto": "W",
-        "angulo": 279
+        "angulo": 265
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "sol",
-            "temp": "13.7°C"
+            "icono": "nubes",
+            "temp": "12°C"
         },
         "16:00": {
-            "icono": "sol",
-            "temp": "16.1°C"
+            "icono": "nubes",
+            "temp": "16°C"
         },
         "20:00": {
-            "icono": "sol",
-            "temp": "12.7°C"
+            "icono": "nubes",
+            "temp": "13°C"
         }
     }
 }
