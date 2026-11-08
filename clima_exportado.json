@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día agradable y despejado. La temperatura será templada, ideal para caminar al colegio. ¡Disfruten el paseo!",
+    "mensaje": "¡Qué día tan agradable para ir al colegio! La mañana está fresca, pero la tarde será cálida y soleada. Vístanse en capas ligeras y disfruten el camino.",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "12 km/h",
-        "direccion_texto": "W",
-        "angulo": 265
+        "velocidad": "03 km/h",
+        "direccion_texto": "SE",
+        "angulo": 133
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "12°C"
+            "icono": "sol",
+            "temp": "15.7°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "16°C"
+            "temp": "18.4°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "13°C"
+            "temp": "14.7°C"
         }
     }
 }
