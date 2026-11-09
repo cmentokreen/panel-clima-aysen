@@ -1,22 +1,22 @@
 {
-    "mensaje": "¡Qué día tan agradable para ir al colegio! La mañana está fresca, pero la tarde será cálida y soleada. Vístanse en capas ligeras y disfruten el camino.",
+    "mensaje": "La mañana será fresca para ir al colegio (5.5°C), pero el día se pondrá cálido (hasta 23.7°C). El viento soplará moderado. ¡Un abrigo ligero será perfecto!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "03 km/h",
-        "direccion_texto": "SE",
-        "angulo": 133
+        "velocidad": "20 km/h",
+        "direccion_texto": "WSW",
+        "angulo": 257
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "sol",
-            "temp": "15.7°C"
+            "temp": "17.0°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "18.4°C"
+            "temp": "20.0°C"
         },
         "20:00": {
-            "icono": "nubes",
+            "icono": "sol",
             "temp": "14.7°C"
         }
     }
