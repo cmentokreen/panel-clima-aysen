@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Prepárense para una tarde lluviosa y fresca. No olviden sus paraguas y abrigos para el camino al colegio. El viento soplará moderado del norte.",
-    "escenario_imagen": "lluvia",
+    "mensaje": "¡Hola familia! El día está agradable con una brisa fresca. ¡Perfecto para caminar al colegio! No olviden una chaqueta ligera.",
+    "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "20 km/h",
-        "direccion_texto": "N",
-        "angulo": 350
+        "velocidad": "28 km/h",
+        "direccion_texto": "W",
+        "angulo": 263
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "13.8°C"
+            "icono": "nubes",
+            "temp": "13.3°C"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "14.7°C"
+            "icono": "nubes",
+            "temp": "15.1°C"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "12.9°C"
+            "icono": "nubes",
+            "temp": "13.6°C"
         }
     }
 }
