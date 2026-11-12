@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! El día está agradable con una brisa fresca. ¡Perfecto para caminar al colegio! No olviden una chaqueta ligera.",
-    "escenario_imagen": "despejado_bici",
+    "mensaje": "¡Hola familia! Hoy tendremos una tarde con probabilidad de lluvia, especialmente a la salida del colegio. La temperatura será agradable, pero el viento soplará moderado. No olviden sus paraguas y un buen abrigo para el regreso.",
+    "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "28 km/h",
-        "direccion_texto": "W",
-        "angulo": 263
+        "velocidad": "14 km/h",
+        "direccion_texto": "SW",
+        "angulo": 218
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "13.3°C"
+            "icono": "sol",
+            "temp": "18.2°C"
         },
         "16:00": {
-            "icono": "nubes",
-            "temp": "15.1°C"
+            "icono": "lluvia",
+            "temp": "16.2°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "13.6°C"
+            "icono": "sol",
+            "temp": "9.3°C"
         }
     }
 }
