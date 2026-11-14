@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Qué día tan agradable! Con 22.6°C y poco viento, la caminata al colegio será muy placentera. ¡Disfruten el sol!",
+    "mensaje": "¡Hola familia! Hoy tendremos un día agradable y soleado.\nLa temperatura subirá bastante por la tarde, así que prepárense\npara una caminata cómoda al colegio. ¡Disfruten el aire libre!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "6 km/h",
-        "direccion_texto": "SE",
-        "angulo": 128
+        "velocidad": "12 km/h",
+        "direccion_texto": "SW",
+        "angulo": 209
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "No disponible",
-            "temp": "N/A"
+            "icono": "nubes",
+            "temp": "19°C"
         },
         "16:00": {
-            "icono": "No disponible",
-            "temp": "N/A"
+            "icono": "nubes",
+            "temp": "24°C"
         },
         "20:00": {
-            "icono": "No disponible",
-            "temp": "N/A"
+            "icono": "sol",
+            "temp": "21°C"
         }
     }
 }
