@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy será un día cálido y sin lluvia. Perfecto para caminar al colegio. ¡No olviden su bloqueador y a disfrutar del aire libre!",
+    "mensaje": "¡Qué día tan agradable para caminar! La tarde estará fresca y sin lluvia. ¡Disfruten el camino al colegio!",
     "escenario_imagen": "despejado_bici",
     "viento_actual": {
-        "velocidad": "11 km/h",
-        "direccion_texto": "SE",
-        "angulo": 155
+        "velocidad": "09 km/h",
+        "direccion_texto": "W",
+        "angulo": 258
     },
     "pronostico_tarde": {
         "12:00": {
             "icono": "nubes",
-            "temp": "22.4°C"
+            "temp": "17.5°C"
         },
         "16:00": {
             "icono": "nubes",
-            "temp": "23.5°C"
+            "temp": "19.9°C"
         },
         "20:00": {
             "icono": "nubes",
-            "temp": "18.1°C"
+            "temp": "17.9°C"
         }
     }
 }
