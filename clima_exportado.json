@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos un día templado con viento moderado.\nPor la tarde, el cielo estará nublado y podría caer una llovizna ligera.\n¡Lleven un paraguas o chaqueta ligera para el camino al colegio!",
+    "mensaje": "¡Hola familia! Hoy tendremos una tarde fresca y con lluvia. No olviden sus paraguas y abrigos para el camino al colegio. ¡Que tengan un buen día!",
     "escenario_imagen": "lluvia",
     "viento_actual": {
-        "velocidad": "16 km/h",
-        "direccion_texto": "S",
-        "angulo": 176
+        "velocidad": "12 km/h",
+        "direccion_texto": "NE",
+        "angulo": 59
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "nubes",
-            "temp": "17.0°C"
+            "icono": "lluvia",
+            "temp": "14.8°C"
         },
         "16:00": {
             "icono": "lluvia",
-            "temp": "18.8°C"
+            "temp": "14.7°C"
         },
         "20:00": {
-            "icono": "nubes",
-            "temp": "17.8°C"
+            "icono": "lluvia",
+            "temp": "14.4°C"
         }
     }
 }
