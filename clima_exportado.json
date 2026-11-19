@@ -1,23 +1,23 @@
 {
-    "mensaje": "¡Hola familia! Hoy tendremos una tarde fresca y con lluvia. No olviden sus paraguas y abrigos para el camino al colegio. ¡Que tengan un buen día!",
-    "escenario_imagen": "lluvia",
+    "mensaje": "Revisar por la ventana, problemas de conexión.",
+    "escenario_imagen": "frio_extremo",
     "viento_actual": {
-        "velocidad": "12 km/h",
-        "direccion_texto": "NE",
-        "angulo": 59
+        "velocidad": "0 km/h",
+        "direccion_texto": "N",
+        "angulo": 0
     },
     "pronostico_tarde": {
         "12:00": {
-            "icono": "lluvia",
-            "temp": "14.8°C"
+            "icono": "nubes",
+            "temp": "--"
         },
         "16:00": {
-            "icono": "lluvia",
-            "temp": "14.7°C"
+            "icono": "nubes",
+            "temp": "--"
         },
         "20:00": {
-            "icono": "lluvia",
-            "temp": "14.4°C"
+            "icono": "nubes",
+            "temp": "--"
         }
     }
 }
